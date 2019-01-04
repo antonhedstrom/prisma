@@ -245,7 +245,7 @@ The following hooks are currently available:
 
 #### Type
 
-The `hooks` property expects an **object**. The properties match the names of the currently availale hooks.
+The `hooks` property expects an **object**. The properties match the names of the currently available hooks.
 
 #### Examples
 
